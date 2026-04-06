@@ -34,3 +34,11 @@ Security vulnerabilities should be reported privately via GitHub Security Adviso
 ## 🏗️ Structure
 
 This organisation is part of a broader ecosystem designed to evolve into a multi-domain development platform under Pengelly Holdings Limited.
+
+---
+
+## Licensing
+
+Unless otherwise specified, repositories within this organisation are licensed under the Novum Systems Source-Available License.
+
+Some projects may use alternative licenses, which will be specified within their respective repositories.
