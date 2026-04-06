@@ -1,0 +1,11 @@
+name: Task
+description: Internal development work
+title: "[TASK] "
+labels: ["task", "status:backlog"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Task Description
+    validations:
+      required: true
